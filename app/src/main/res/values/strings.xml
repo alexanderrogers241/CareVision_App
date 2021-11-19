@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SeniorDesignI</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Data</string>
+    <string name="next">Data</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">CareVision</string>
+    <string name="hello_second_fragment">Data. Arg: %1$s</string>
+    <string name="data_array">[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,29,30,31,32]</string>
+</resources>
